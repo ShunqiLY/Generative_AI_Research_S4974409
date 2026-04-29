@@ -1,0 +1,26 @@
+Survey: Using Generative AI Tools - Boon or Bane
+Version: 1.0
+Date: 2026-04-29
+
+Section 1: Demographic Information
+Q1. What is your age group?
+    [ ] 18-24  [ ] 25-34  [ ] 35-44  [ ] 45+
+
+Q2. What is your current role?
+    [ ] Undergraduate student  [ ] Postgraduate student
+    [ ] Academic/Researcher    [ ] Industry professional
+
+Section 2: GenAI Usage
+Q3. How frequently do you use Generative AI tools (e.g., ChatGPT, Gemini)?
+    [ ] Daily  [ ] Weekly  [ ] Monthly  [ ] Rarely  [ ] Never
+
+Q4. For what purposes do you use Generative AI tools? (Select all that apply)
+    [ ] Writing assistance   [ ] Code generation
+    [ ] Research/literature  [ ] Data analysis
+    [ ] Other: __________
+
+Section 3: Perceptions (Likert scale 1-5: Strongly Disagree to Strongly Agree)
+Q5. Generative AI tools improve my productivity.         1 2 3 4 5
+Q6. Generative AI tools raise ethical concerns.          1 2 3 4 5
+Q7. I trust the outputs produced by Generative AI tools. 1 2 3 4 5
+Q8. GenAI tools pose a risk to academic integrity.       1 2 3 4 5

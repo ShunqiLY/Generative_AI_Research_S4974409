@@ -1,0 +1,6 @@
+respondent_id,age_group,role,genai_frequency,purpose_writing,purpose_code,purpose_research,purpose_data,q5_productivity,q6_ethics,q7_trust,q8_integrity
+1,18-24,Undergraduate student,Daily,1,1,0,0,5,3,3,4
+2,25-34,Postgraduate student,Weekly,1,0,1,0,4,4,3,3
+3,35-44,Academic/Researcher,Monthly,1,0,1,1,4,5,2,4
+4,18-24,Undergraduate student,Daily,1,1,1,0,5,2,4,3
+5,25-34,Industry professional,Weekly,0,1,0,1,4,3,3,2

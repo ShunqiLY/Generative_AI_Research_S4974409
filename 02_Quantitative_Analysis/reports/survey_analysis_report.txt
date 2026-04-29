@@ -1,0 +1,19 @@
+Survey Analysis Report
+Study: Using Generative AI Tools - Boon or Bane
+Date: 2026-04-29
+Status: Draft
+
+Summary of Findings
+-------------------
+- Majority of respondents use GenAI tools daily or weekly.
+- Most common use case: writing assistance and code generation.
+- Average productivity score: 4.4/5 — respondents generally view GenAI as productive.
+- Ethical concerns (Q6) rated highly (avg 3.4/5), indicating awareness of risks.
+- Trust in GenAI outputs is moderate (avg 3.0/5).
+- Academic integrity concerns are present but vary by role.
+
+Next Steps
+----------
+- Collect complete dataset (target n=100).
+- Run inferential statistics (t-tests, ANOVA by role group).
+- Visualise Likert distributions per demographic group.
