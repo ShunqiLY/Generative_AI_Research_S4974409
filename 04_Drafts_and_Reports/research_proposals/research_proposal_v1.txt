@@ -1,0 +1,28 @@
+Research Proposal - Draft v1
+Title: Using Generative AI Tools - Boon or Bane
+Date: 2026-04-29
+
+1. Research Problem
+Generative AI tools such as ChatGPT are rapidly being adopted in academic and professional
+settings. Despite their potential benefits, concerns persist around accuracy, ethics, and
+academic integrity. This study investigates how users perceive and navigate these tensions.
+
+2. Research Questions
+RQ1: What are the primary benefits and challenges experienced by users of GenAI tools?
+RQ2: How do users' roles (student vs. professional) shape their perceptions of GenAI?
+RQ3: What strategies do users employ to manage integrity and trust concerns?
+
+3. Methodology
+Mixed-methods design:
+  - Quantitative: Online survey (target n=100) with Likert-scale items.
+  - Qualitative: Semi-structured interviews (target n=12) analysed thematically.
+
+4. Expected Outcomes
+Findings will inform institutional policy on GenAI use and contribute to the emerging
+literature on responsible AI adoption in education and professional practice.
+
+5. Timeline
+Phase 1 (Literature Review):    Feb - Mar 2026
+Phase 2 (Data Collection):      Apr - May 2026
+Phase 3 (Analysis):             Jun - Jul 2026
+Phase 4 (Writing/Submission):   Aug - Sep 2026
