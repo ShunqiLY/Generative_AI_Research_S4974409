@@ -1,0 +1,20 @@
+Interview Transcript - Participant P001
+Date: 2026-04-15  Duration: 32 min  Interviewer: [Researcher]
+Note: All identifying details have been removed.
+
+[00:00] Interviewer: Can you briefly describe your role and how long you have been in this role?
+P001: I'm a postgraduate student, currently in my second year of a master's program. I've been using GenAI tools for about a year now.
+
+[01:10] Interviewer: Which tools do you primarily use?
+P001: Mostly ChatGPT for drafting text and Copilot for coding. I use them almost every day.
+
+[03:45] Interviewer: What benefits have you experienced?
+P001: The biggest benefit is speed. Tasks that used to take hours now take much less time. It also helps when I'm stuck — like a thought partner.
+
+[08:20] Interviewer: Have you encountered any challenges?
+P001: Yes, accuracy is a concern. Sometimes the tool sounds very confident but the information is just wrong. I have to verify everything.
+
+[15:00] Interviewer: Any concerns about academic integrity?
+P001: Definitely. I'm careful about how I use it. I never submit AI-generated text directly. I use it to brainstorm but write everything myself in the end.
+
+[END OF TRANSCRIPT]

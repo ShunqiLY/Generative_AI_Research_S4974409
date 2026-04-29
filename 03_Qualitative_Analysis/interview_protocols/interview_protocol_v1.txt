@@ -1,0 +1,31 @@
+Interview Protocol
+Study: Using Generative AI Tools - Boon or Bane
+Version: 1.0
+Date: 2026-04-29
+
+Introduction (2 min)
+- Introduce the research team and study purpose.
+- Confirm participant consent and permission to record.
+- Remind participant that participation is voluntary and they may withdraw at any time.
+
+Section 1: Background (5 min)
+1. Can you briefly describe your role and how long you have been in this role?
+2. How did you first encounter Generative AI tools in your work or studies?
+
+Section 2: Usage Patterns (10 min)
+3. Which Generative AI tools do you currently use? How often?
+4. What tasks do you primarily use them for?
+5. Has your use of these tools changed over time? If so, how?
+
+Section 3: Benefits and Challenges (15 min)
+6. What benefits have you experienced from using GenAI tools?
+7. Have you encountered any challenges or problems? Can you give an example?
+8. How do you evaluate the quality or trustworthiness of GenAI outputs?
+
+Section 4: Ethics and Integrity (10 min)
+9. Do you have any concerns about academic or professional integrity when using GenAI?
+10. How do your institution or organisation's policies address GenAI use?
+
+Closing (3 min)
+- Ask if there is anything else the participant would like to add.
+- Thank the participant and explain next steps.

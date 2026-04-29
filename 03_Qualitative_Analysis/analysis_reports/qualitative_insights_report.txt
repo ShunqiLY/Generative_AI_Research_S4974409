@@ -1,0 +1,28 @@
+Qualitative Insights Report
+Study: Using Generative AI Tools - Boon or Bane
+Date: 2026-04-29
+Status: Draft
+
+Key Themes Identified (Thematic Analysis)
+------------------------------------------
+Theme 1: Productivity and Efficiency
+  - Participants widely reported time savings as the primary benefit.
+  - GenAI tools used as "thought partners" to overcome creative blocks.
+
+Theme 2: Trust and Accuracy Concerns
+  - Hallucination / confident misinformation was the most cited challenge.
+  - All participants described verification strategies.
+
+Theme 3: Academic and Professional Integrity
+  - Students showed awareness of policies and self-regulated usage.
+  - Industry participants reported fewer formal constraints.
+
+Theme 4: Evolving Adoption Patterns
+  - Usage tends to increase over time as familiarity grows.
+  - Early sceptics became regular users after positive experiences.
+
+Methodology Notes
+-----------------
+- Coding framework: Inductive thematic analysis (Braun & Clarke, 2006)
+- Inter-rater reliability check pending second coder.
+- Data saturation expected at n=12 interviews.
